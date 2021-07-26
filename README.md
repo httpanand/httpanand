@@ -1,13 +1,10 @@
-# Hello , Anand here.. 🙋‍♂️
-#### A Passionate Teen Coder From South India . 
+# Hello , I'm Anand...  <img src="https://img.icons8.com/office/16/000000/console.png"/>
+#### *A Passionate Teen Coder From South India .* 
 
 
- • Every Procoders were once a noob... :)
+ • *Every Procoders were once a noob... :)*
  
- • I code JavaScript,Java,Python,CSS,Html,Lua.Noob but passionate :)
-
-
-
+ • *Interested in JavaScript,Java,Python,CSS,Html,Lua...etc*
 
 
 
@@ -16,7 +13,11 @@
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark)
 
+## LANGUAGES & TOOLS
+<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/50/000000/css3.png"/><img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/><img src="https://img.icons8.com/officexs/45/000000/php-logo.png"/>![lua-official (1)](https://user-images.githubusercontent.com/87514488/126919892-9161e91c-c0ea-466a-afb8-ca8aa5e332cc.png)<!--software -->
+<img src="https://img.icons8.com/fluent/50/000000/android-os.png"/><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 
-## Languages and Tools
-<p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.python.org/downloads/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.lua.org/download.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="Lua" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="40" height="40"/> </a><a href="https://www.w3.org/Style/CSS/software.en.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS" width="40" height="40"/> </a><a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCODE" width="40" height="40"/> </a><a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank"> <img src="https://github.com/detain/svg-logos/blob/master/svg/pycharmedu-icon.svg" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://github.com/kenangundogan/fontisto/blob/master/icons/svg/brand/sublime-text.svg" alt="sublime" width="40" height="40"/> </a>
+
+
+
