@@ -6,6 +6,9 @@
  • *Every Procoders were once a noob... :)*
  
  • *Interested in JavaScript,Java,Python,CSS,Html,Lua...etc*
+ 
+ • *Currently learning ruby & rust*
+
 
 
 
