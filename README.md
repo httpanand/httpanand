@@ -1,7 +1,10 @@
-![mario_hi](https://user-images.githubusercontent.com/87514488/126930450-3e791922-155c-417d-b299-c12ccfd6306b.gif)
-# Hello , I'm Anand...  
-#### *A Passionate Teen Coder From South India .* 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/87514488/126930450-3e791922-155c-417d-b299-c12ccfd6306b.gif" alt="Material Bread logo">
+</p>
+ 
 
+<h1 align="center">Hello , I'm Anand... </h1>
+<h3 align="center"><i>A Passionate Teen Coder From South India</i></h3>
 
  • *Every Procoders were once a noob... :)*
  
