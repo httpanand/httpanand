@@ -20,7 +20,7 @@
 <details> 
   
   <summary>Tools</summary>
-<img src="https://img.icons8.com/fluent/50/000000/android-os.png"/><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://user-images.githubusercontent.com/87514488/129579177-fd8e08e8-33ba-4a22-ab71-ee3f493471e3.png"/>
+<img src="https://img.icons8.com/fluent/50/000000/android-os.png"/><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://user-images.githubusercontent.com/87514488/129579177-fd8e08e8-33ba-4a22-ab71-ee3f493471e3.png"/><img src="https://img.icons8.com/fluency/48/000000/blender-3d.png"/>
 
   
 </details>
