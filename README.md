@@ -8,8 +8,6 @@
  
  • *Interested in JavaScript,Java,Python,CSS,Html,Lua...etc*
  
- • *Currently learning ruby & rust*
-
 </k>
 
 
