@@ -1,4 +1,4 @@
-<p align="center"> <img  height="80px" src="https://user-images.githubusercontent.com/87514488/126930450-3e791922-155c-417d-b299-c12ccfd6306b.gif"/> </p>
+<p align="center"> <img  height="100px" src="https://user-images.githubusercontent.com/87514488/126930450-3e791922-155c-417d-b299-c12ccfd6306b.gif"/> </p>
 <h1 align="center" >Hello , I'm Anand... </h1>
 <h3 align="center"><i>A Passionate Teen Coder From South India</i></h3>
 
