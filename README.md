@@ -3,7 +3,6 @@
 <h3 align="center"><i>A Passionate Teen Coder From South India</i></h3>
 
 
-<p align="center"> Every ProCoders where once a noob.</p>
 <p align="center"> Interested in Java,Javascript,HTML,CSS,Lua etc...</p>
  
 <!-- Social Media -->
