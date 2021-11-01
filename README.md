@@ -3,7 +3,6 @@
 <h3 align="center"><i>A Passionate Teen Coder From South India</i></h3>
 
 
-
 <p align="center"> Every ProCoders where once a noob.</p>
 <p align="center"> Interested in Java,Javascript,HTML,CSS,Lua etc...</p>
  
@@ -40,6 +39,7 @@
 </a>
 <a href="https://github.com/httpanand">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=httpanand&show_icons=true&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=httpanand&label=Profile%20views&color=000000&style=flat" alt="httpanand" />
 </a>
 
 </details>
