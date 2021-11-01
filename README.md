@@ -37,9 +37,9 @@
 <a href="https://github.com/httpanand">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark" />
 </a>
+ 
 <a href="https://github.com/httpanand">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=httpanand&show_icons=true&theme=dark" />
-  <img src="https://komarev.com/ghpvc/?username=httpanand&label=Profile%20views&color=000000&style=flat" alt="httpanand" />
 </a>
 
 </details>
