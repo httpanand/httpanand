@@ -34,11 +34,11 @@
   
   <summary align="center"> Github Stats </summary>
 <a href="https://github.com/httpanand">
-  <img align="center" height="130px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark" />
+  <img align="center" height="130px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark" />
 </a>
  
 <a href="https://github.com/httpanand">
-  <img align="center" height="170px" width="320px"src="https://github-readme-stats.vercel.app/api?username=httpanand&show_icons=true&theme=dark" />
+  <img align="center" height="170px" width="350px"src="https://github-readme-stats.vercel.app/api?username=httpanand&show_icons=true&theme=dark" />
 </a>
 
 </details>
