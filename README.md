@@ -34,7 +34,7 @@
   
   <summary align="center"> Github Stats </summary>
 <a href="https://github.com/httpanand">
-  <img align="center" height="160px" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark" />
+  <img align="center" height="155px" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpanand&layout=compact&theme=dark" />
 </a>
  
 <a href="https://github.com/httpanand">
